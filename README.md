@@ -6,3 +6,7 @@ Training program members:
 - Gab
 - JY
 - Allen
+- Dwight
+- Albert
+- Rochester 
+- Aubrey
