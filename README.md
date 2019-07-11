@@ -4,5 +4,9 @@ Training program members:
 - LA
 - Matthew
 - Gab
+- JY
+- Allen
+- Dwight
+- Albert
 - Rochester 
 - Aubrey
