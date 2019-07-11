@@ -1,6 +1,7 @@
 # repository-with-branches-demo
 Training program members:
-- test
+- Dwight
+- Albert
 - LA
 - Matthew
 - Gab
