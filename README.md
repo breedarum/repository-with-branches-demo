@@ -1,9 +1,12 @@
 # repository-with-branches-demo
 Training program members:
-- Dwight
-- Albert
+- test
 - LA
 - Matthew
 - Gab
+- JY
+- Allen
+- Dwight
+- Albert
 - Rochester 
 - Aubrey
