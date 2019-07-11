@@ -4,3 +4,5 @@ Training program members:
 - LA
 - Matthew
 - Gab
+- JY
+- Allen
